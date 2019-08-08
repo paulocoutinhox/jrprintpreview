@@ -11,4 +11,4 @@ script:
   - mvn clean  
   - mvn compile
   - mvn install
-  - mvn javafx:run
+  
