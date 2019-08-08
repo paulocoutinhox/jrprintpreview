@@ -1,0 +1,14 @@
+language: java
+
+dist: bionic
+sudo: false
+
+jdk:
+  - openjdk12
+
+script:
+  - java -version
+  - mvn clean  
+  - mvn compile
+  - mvn install
+  - mvn javafx:run
