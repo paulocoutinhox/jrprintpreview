@@ -1,6 +1,8 @@
 # JRPrintPreview
 
-JasperReports print preview stage class written in JavaFX 12
+[![Build Status](https://travis-ci.com/prsolucoes/jrprintpreview.svg?branch=master)](https://travis-ci.com/prsolucoes/jrprintpreview)  
+
+JasperReports print preview stage class written in JavaFX 12  
 
 ### Usage example
 
