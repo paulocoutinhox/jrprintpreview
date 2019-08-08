@@ -43,3 +43,8 @@ mvn javafx:run
 You need Java 12 to run it.  
 
 If you use Java 8 or Java 9 you need change file **pom.xml** to 1.8 or 1.9 version.  
+
+
+### Screenshot
+
+![](extras/screenshots/ss01.png)  
