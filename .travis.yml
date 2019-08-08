@@ -10,5 +10,4 @@ script:
   - java -version
   - mvn clean  
   - mvn compile
-  - mvn install
   

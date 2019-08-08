@@ -34,7 +34,6 @@ Some maven commands are available and you can execute it without IDE, including 
 ```
 mvn clean
 mvn compile
-mvn install
 mvn javafx:run
 ```
 
