@@ -40,7 +40,13 @@ mvn compile
 mvn javafx:run
 ```
 
-To check only dependencies, use:
+To **package** use:
+
+```
+mvn package
+```
+
+To check only **dependencies** use:
 
 ```
 mvn dependency:resolve
