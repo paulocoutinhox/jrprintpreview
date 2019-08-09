@@ -4,3 +4,4 @@ THumbs.db
 out
 target
 *.class
+dependency-reduced-pom.xml

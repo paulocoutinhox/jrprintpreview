@@ -2,7 +2,10 @@
 
 [![Build Status](https://travis-ci.com/prsolucoes/jrprintpreview.svg?branch=master)](https://travis-ci.com/prsolucoes/jrprintpreview)  
 
-JasperReports print preview stage class written in JavaFX 12  
+JasperReports print preview stage class written in JavaFX 12.  
+
+This project is based on this project from **Vitomir Spasojević** but fitted for our needs:
+https://github.com/vitomirs/JRPrintPreview
 
 ## Usage example
 
@@ -35,6 +38,12 @@ Some maven commands are available and you can execute it without IDE, including 
 mvn clean
 mvn compile
 mvn javafx:run
+```
+
+To check only dependencies, use:
+
+```
+mvn dependency:resolve
 ```
 
 ## Requirements
